@@ -1,0 +1,1 @@
+Example of using entmake function in autolisp.
